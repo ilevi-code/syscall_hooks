@@ -1,0 +1,9 @@
+.Module.symvers.cmd
+Module.symvers
+modules.order
+*.cmd
+*.o
+*.dwo
+*.ko
+*.mod*
+.vscode/
